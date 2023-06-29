@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hola, Hello, Bonjour, My name is Alan Murillo,I am a computer engineering student, I like coding and learn new Technologies, I speak 
-### spanish, english and French
+Hola, Hello, Bonjour, My name is Alan Murillo,I am a computer engineering student, I like coding and learn new Technologies, I speak \\
+## spanish, english and French
 
 Topics
 Resources
